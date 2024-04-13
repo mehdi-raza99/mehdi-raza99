@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/mehdi-raza-58a362297](www.linkedin.com/in/mehdi-raza-58a362297)
+- 👨‍💻 All of my projects are available at [https://github.com/mehdi-raza99](https://github.com/mehdi-raza99)
 
 - 📫 Reach me at **mehdics100@gmail.com**
 
