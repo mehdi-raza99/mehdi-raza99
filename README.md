@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/mehdi-raza-58a362297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mehdi-raza-58a362297" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehdi-raza-58a362297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mehdi-raza-58a362297" height="30" width="40" /></a>
 <a href="https://codesandbox.com/u/mehdi-raza99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="u/mehdi-raza99" height="30" width="40" /></a>
 <a href="https://fb.com/mehdi.raza.37017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehdi.raza.37017" height="30" width="40" /></a>
 <a href="https://instagram.com/the_proud_ravian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_proud_ravian" height="30" width="40" /></a>
