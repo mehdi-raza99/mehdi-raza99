@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehdi Raza</h1>
 <h3 align="center">A diligent Computer Science student at GCU Lahore</h3>
 
-- 🔭 I’m currently working on **Keeper app**
+- 🔭 I’m currently working on **Frontend**
 
 - 🌱 I’m currently learning **React**
 
